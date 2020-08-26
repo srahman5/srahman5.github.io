@@ -1,3 +1,7 @@
+## Bugs
+I claim that this would work perfectly if the XMLHttpRequest responseText would assign properly. See Statuses.js lines 26 and 27.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
